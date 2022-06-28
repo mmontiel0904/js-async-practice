@@ -4,7 +4,7 @@
   "description": "learning asyncronysm in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmontiel0904/js-async-practice/issues"
   },
-  "homepage": "https://github.com/mmontiel0904/js-async-practice#readme"
+  "homepage": "https://github.com/mmontiel0904/js-async-practice#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
