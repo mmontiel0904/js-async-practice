@@ -19,7 +19,7 @@ const id = 229;
 const data = {
     "title": "Marcos Montiel product",
     "price": 9999,
-    "description": "MM update this product on Jun 28th 2022",
+    "description": "Update this product on Jun 28th 2022",
 }
 
 
